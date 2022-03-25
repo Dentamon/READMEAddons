@@ -11,3 +11,5 @@
 ### Pull Requests Card
 ### That's all for now!
 # Demos
+### Stats:  Dark Theme
+#### ![Dentamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=dark)
