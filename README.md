@@ -1,15 +1,10 @@
 # READMEAddons
-#### Some addons you can add to your README's.
-# Addons
-### Stat's Card
-### Top Languages Card
-### Themes for Stat's Card
-### Themes for Top Languages Card
-### Custom Settings for Stat's Card
-### Custom Settings for Top Languages Card
-### Issues Open Card
-### Pull Requests Card
-### That's all for now!
-# Demos
-### Stats:  Dark Theme
-#### ![Dentamon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dentamon&show_icons=true&theme=dark)
+### README Addons  you can easily add to a README.md file.
+# What are README Addons?
+#### README Addons can show people who check out your profile more about you.
+### Some things this repo include are
+#### Github Stats
+#### Top Languages Used
+#### Different themes for Github Stats and Top Languages Used
+#### Visitor Count
+### And more!
